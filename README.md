@@ -24,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="imgur-embed-pub" lang="en" data-id="0Bujq2r"><a href="https://imgur.com/0Bujq2r">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=250><br>
+<img src="https://imgur.com/0Bujq2r" width=250><br>
 
 ### Notes
 Because the version of Android studio used in the tutorial is older than the current version, the process of adding things to the design within item_Movie.xml was different. For instance, adding a margin to ivPoster was different from the tutorial. 
